@@ -174,5 +174,5 @@ July 2025
 - [LinkedIn](#) *(https://www.linkedin.com/in/onyinye-nwosu-techcrushscholar-4a23931ab/)*
 - [Twitter/X](#) *(https://x.com/NwosuOnyinyeSP)*
 
-
+---
 > 📂 Note: This project was completed as part of the TechCrush Cybersecurity program to build practical hands-on skills in network security and system hardening.
